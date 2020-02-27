@@ -21,9 +21,9 @@ The National Library has approximately 1.000 letters written by the Norwegian au
 ## Metadata
 - [Letters 1841-51, CMIF-file](https://github.com/norkorr/nb_kilder/blob/master/data/NBkilder_LettersCC1841-51_CMIF.xml)
 - [Letters 1852-63, CMIF-file](https://github.com/norkorr/nb_kilder/blob/master/data/NBkilder_LettersCC1852-63_CMIF.xml)
-- [Letters to Henrik and Susanna Ibsen](https://github.com/norkorr/nb_kilder/blob/master/data/NBkilder_LettersCC-HI-SI_CMIF.xml)
-- [Letters to Bjørnstjerne Bjørnson](https://github.com/norkorr/nb_kilder/blob/master/data/NBkilder_LettersCC-BB_CMIF.xml)
-- [Letters to Jonas Lie](https://github.com/norkorr/nb_kilder/blob/master/data/NBkilder_LettersCC-JL_CMIF.xml)
+- [Letters to Henrik and Susanna Ibsen, CMIF-file](https://github.com/norkorr/nb_kilder/blob/master/data/NBkilder_LettersCC-HI-SI_CMIF.xml)
+- [Letters to Bjørnstjerne Bjørnson, CMIF-file](https://github.com/norkorr/nb_kilder/blob/master/data/NBkilder_LettersCC-BB_CMIF.xml)
+- [Letters to Jonas Lie, CMIF-file](https://github.com/norkorr/nb_kilder/blob/master/data/NBkilder_LettersCC-JL_CMIF.xml)
       
 # Letters from Kitty L Kielland
 The National Library has approximately 150 letters written by the Norwegian painter Kitty L. Kielland (1843–1914) in its manuscript collection and also many letters written to her. Three correspondence editions have been published in the NB kilder series: Kielland's letters to and from the Norwegian author Arne Garborg (1851–1924), the Norwegian painter Eilif Peterssen and her sister Dagmar Skavlan (1855–1931).
