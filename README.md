@@ -5,6 +5,7 @@ The National Library's collection contains everything from books, newspapers, au
 
 # NB kilder
 Website: [https://www.nb.no/forskning/nb-kilder/] (https://www.nb.no/forskning/nb-kilder/)
+
 NB kilder is The National Library's source edition series. Most of the NB kilder books are results of ongoing philological projects at the library, the two largest being “Camilla Collett’s letters” and “Christiane Koren’s diaries”. So far the library has published 30 books in the NB kilder series, among them are eight letter/correspondence editions.
 
 # Letters from Camilla Collett
